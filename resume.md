@@ -3,17 +3,18 @@ layout: resume
 ---
 ## Currently
 
-Current Position Description
+Postdoctoral Researcher at NC State University
 
 ## Education
 
-`1990 - 1994`
-__University Name__
-Degree Awarded
+`2012 - 2017`
+__University of Michigan__
+PhD
+MS
 
-`1995 - 1997`
-__University Name__
-Degree Awarded 
+`2008 - 2012`
+__University of Florida__
+BS
 
 ## Awards
 
@@ -26,10 +27,10 @@ Name of Award, Organization
 
 ### Journals
 
-`1994`
+`2018`
 Article Title, Journal Title
 
-`1994`
+`2015`
 Article Title, Journal Title
 
 ### Books
