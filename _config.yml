@@ -7,9 +7,9 @@ logo: # filename of a logo image that has been placed into your images directory
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
   name: Paul A. Beata
-  avatar: bio-photo.jpg
+  avatar: MAIN_profile.jpg
   bio: "I don't know how to make a website."
-  email: pabeata [at] ncsu [dot] edu #emailaddress
+  email: pabeata@ncsu.edu #emailaddress
   # Do not include the @ symbol in your Twitter username
   twitter: #username
   linkedin: #username
