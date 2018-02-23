@@ -14,14 +14,14 @@ owner:
   twitter: #username
   linkedin: #username
   github: pbeata #username
-  orcid: "0000-0002-0445-4558" # ID Number (ex. 0000-0000-0000-0000)
+  orcid: # ID Number (ex. 0000-0000-0000-0000)
   researchgate: #username
   mendeley: #username
   google:
     plus: #username
     analytics:
     verify:
-    scholar: Eq7QLVYAAAAJ #id
+    scholar: #id
   facebook: #username
   instagram: #username
   bing-verify:
@@ -42,8 +42,12 @@ owner:
 
 # The following adjust the accents for your site. If you would like to further edit colors, fonts, font sizes, etc.
 # you may do so in _sass/variables.scss
-highlight-color: '#CC0000'
-lowlight-color: '#000'
+
+# highlight-color: '#CC0000'
+# lowlight-color: '#000'
+
+highlight-color: '#164CFA'
+lowlight-color: '#FA8116'
 
   # NOTE: If you would like your site to be licensed under a creative commons license, uncomment the 'yes' next to the type of license you wish to use.
 creative-commons:
