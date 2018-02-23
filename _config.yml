@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title: Paul A. Beata - NCSU
+title: Paul A. Beata
 locale: en_US
 logo: # filename of a logo image that has been placed into your images directory
 
@@ -8,20 +8,20 @@ logo: # filename of a logo image that has been placed into your images directory
 owner:
   name: Paul A. Beata
   avatar: MAIN_profile.jpg
-  bio: "I don't know how to make a website."
+  bio: "I am a postdoctoral researcher at NCSU."
   email: pabeata@ncsu.edu
   # Do not include the @ symbol in your Twitter username
-  twitter: paulbeata
+  twitter: #username
   linkedin: #username
   github: pbeata
-  orcid: # ID Number (ex. 0000-0000-0000-0000)
+  orcid: 0000-0002-0445-4558
   researchgate: #username
   mendeley: #username
   google:
     plus: #username
     analytics:
     verify:
-    scholar: #id
+    scholar: Eq7QLVYAAAAJ
   facebook: #username
   instagram: #username
   bing-verify:
