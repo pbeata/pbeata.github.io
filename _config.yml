@@ -1,27 +1,27 @@
 # Site wide configuration
 
-title: Site Title
+title: Paul A. Beata
 locale: en_US
 logo: # filename of a logo image that has been placed into your images directory
 
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
-  name: Your Name
+  name: Paul A. Beata
   avatar: bio-photo.jpg
-  bio: "A brief description of yourself."
-  email: #emailaddress
+  bio: "I don't know how to make a website."
+  email: pabeata [at] ncsu [dot] edu #emailaddress
   # Do not include the @ symbol in your Twitter username
   twitter: #username
   linkedin: #username
-  github: #username
-  orcid: # ID Number (ex. 0000-0000-0000-0000)
+  github: pbeata #username
+  orcid: 0000-0002-0445-4558 # ID Number (ex. 0000-0000-0000-0000)
   researchgate: #username
   mendeley: #username
   google:
     plus: #username
     analytics:
     verify:
-    scholar: #id
+    scholar: Eq7QLVYAAAAJ #id
   facebook: #username
   instagram: #username
   bing-verify:
