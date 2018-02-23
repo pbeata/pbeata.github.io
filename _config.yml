@@ -9,12 +9,12 @@ owner:
   name: Paul A. Beata
   avatar: MAIN_profile.jpg
   bio: "I don't know how to make a website."
-  email: pabeata@ncsu.edu #emailaddress
+  email: pabeata@ncsu.edu
   # Do not include the @ symbol in your Twitter username
   twitter: #username
   linkedin: #username
-  github: pbeata #username
-  orcid: # ID Number (ex. 0000-0000-0000-0000)
+  github: pbeata
+  orcid: 0000-0002-0445-4558
   researchgate: #username
   mendeley: #username
   google:
