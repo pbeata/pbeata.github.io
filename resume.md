@@ -1,68 +1,64 @@
 ---
 layout: resume
 ---
-## Currently
-
-Postdoctoral Researcher at NC State University
 
 ## Education
 
-`2012 - 2017`
-__University of Michigan__
-PhD
-MS
+`2013 - 2017`
+__University of Michigan__  
+Ph.D. in Civil Engineering and Scientific Computing
+
+`2012 - 2013`
+__University of Michigan__  
+Master of Science in Civil Engineering (Structures)
 
 `2008 - 2012`
-__University of Florida__
-BS
+__University of Florida__  
+Bachelor of Science in Civil Engineering  
+Minor in Mathematics
 
 ## Awards
 
-`2012`
-Name of Award, Organization 
+`2015`
+Beyster Award, Organization
 
 ## Publications
 
 <!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
-### Journals
+### Journal Articles
 
 `2018`
-Article Title, Journal Title
+Article Title, Journal Title, Link
 
 `2015`
-Article Title, Journal Title
+Article Title, Journal Title, Link
 
-### Books
+`2014`
+Article, Journal, Link
 
-`1994`
-Book Title, Journal Title
+`2013`
+Article, Journal, Link
 
-`1994`
-Book Title, Journal Title
+### Peer-reviewed Conference
 
+`2018`
+Paper Title, Conference, <a href="http://MyWebsite.tld/presentation1">Link to Presentation</a>
 
-## Presentations
+### Other Papers
 
-`1994`
-Presentation Title, Conference, <a href="http://MyWebsite.tld/presentation1">Link to Presentation</a>
+`2015`
+SiF
 
+### Presentation Only
 
-## Occupation
+`2013`
+EMI
 
-`Current`
-__Current Job Title__, Current Employer 
+### Posters
 
-- Task
-- Task
-
-`1994-1996`
-__Current Job Title__, Current Employer 
-
-- Task
-- Task
-
-
+`2014`
+EGS
 
 <!-- ### Footer
 
